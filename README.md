@@ -1,4 +1,4 @@
-# # Credit Card Default Prediction
+## Credit Card Default Prediction
 
 ## Overview
 This project focuses on building a predictive model to estimate the likelihood of default for credit card clients. By leveraging machine learning techniques and financial data, the project provides insights into the factors influencing defaults and helps financial institutions make informed decisions to manage credit risks effectively.
